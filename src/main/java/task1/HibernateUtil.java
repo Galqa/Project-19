@@ -1,4 +1,4 @@
-package task2;
+package task1;
 
 import org.hibernate.HibernateException;
 import org.hibernate.SessionFactory;
